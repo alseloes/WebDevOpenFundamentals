@@ -35,7 +35,7 @@ Ahora que tienes un proyecto en el que trabajar, estás listo para empezar. Si a
 
 Lo primero que tendrás que hacer es registrarte con tu correo electrónico:
 
-[Crear cuenta de GitHub](https://assets-v3.circle.so/xavgr0dwvattyhrcou78k7zuhjek)
+![Crear cuenta de GitHub](https://assets-v3.circle.so/xavgr0dwvattyhrcou78k7zuhjek)
 
 Crea un nombre de usuario con tu nombre o crea uno único y accesible. Considera usar variaciones de tu nombre, tus iniciales y el trabajo que realizas. Recuerda que posibles empleadores, compañeros desarrolladores y cualquier persona que busque tu trabajo verán este nombre de usuario, así que intenta crear uno fácil de recordar y apropiado. Este nombre de usuario ayudará a otros a encontrar tus proyectos y también formará parte de cualquier URL pública asociada a ellos.
 
@@ -45,15 +45,15 @@ Después de introducir el código de lanzamiento, se te pedirá que completes un
 
 Para las dos primeras preguntas de la encuesta, selecciona "Solo yo" y "Estudiante", respectivamente.
 
-[Preguntas GitHub](https://assets-v3.circle.so/32uc0my43qv7i67pi0qip4zte5dg)
+![Preguntas GitHub](https://assets-v3.circle.so/32uc0my43qv7i67pi0qip4zte5dg)
 
 Para la tercera pregunta de la encuesta, **no debes** seleccionar ninguna de las características mencionadas. Puede pasar a la siguiente parte.
 
-[Selecciones GitHub](https://assets-v3.circle.so/5519cycozx5daxlxvnodil4ruy9yhttps://assets-v3.circle.so/5519cycozx5daxlxvnodil4ruy9y)
+![Selecciones GitHub](https://assets-v3.circle.so/5519cycozx5daxlxvnodil4ruy9y)
 
 Cuando hayas terminado de completar la encuesta, regresarás al panel general de [GitHub.com](www.github.com).
 
-[Panel general de GitHub](https://assets-v3.circle.so/ugbaeq8jb838pwau1tnjp5wxo4in)
+![Panel general de GitHub](https://assets-v3.circle.so/ugbaeq8jb838pwau1tnjp5wxo4in)
 
 ## 1.4 Edita y actualiza tu perfil
 
@@ -63,4 +63,4 @@ En este punto, puedes (y deberías) dedicar un minuto a actualizar y personaliza
 
 Tus compañeros de clase y tus futuros empleadores verán el contenido de tu perfil. Te recomendamos añadir una foto de perfil profesional y actualizar el resto del contenido con la información relevante que quieras compartir. Además, puedes volver a visitar tu perfil cuando lo necesites para realizar actualizaciones.
 
-[Editar perfil](https://assets-v3.circle.so/uh3pmrt77ljdo2pjbnii364wayaf)
+![Editar perfil](https://assets-v3.circle.so/uh3pmrt77ljdo2pjbnii364wayaf)
