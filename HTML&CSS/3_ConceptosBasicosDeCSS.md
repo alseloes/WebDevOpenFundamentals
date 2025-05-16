@@ -260,7 +260,7 @@ Su objetivo es hacer que su página web se parezca lo más posible a la imagen, 
 **Solución:** En el directorio debes tener los siguientes archivos:
 * index.html
 * style.css
-* dog.jpg
+* dogs.jpg
 
 A continuación una posible opción que resuelve la actividad:
 
